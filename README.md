@@ -1,1 +1,0 @@
-# Drug-discovery-appllication_AI
